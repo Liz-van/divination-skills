@@ -1,0 +1,46 @@
+{
+  "single": {
+    "name_zh": "单张牌",
+    "count": 1,
+    "positions": ["当前指引"]
+  },
+  "three": {
+    "name_zh": "三牌阵",
+    "count": 3,
+    "positions": ["过去", "现在", "未来"],
+    "variants": {
+      "you-them-relation": ["你", "对方", "关系"],
+      "situation-action-outcome": ["情况", "行动", "结果"]
+    }
+  },
+  "choice": {
+    "name_zh": "二选一",
+    "count": 3,
+    "positions": ["选 A 会怎样", "选 B 会怎样", "建议"]
+  },
+  "relation": {
+    "name_zh": "关系牌阵",
+    "count": 5,
+    "positions": ["你现在的状态", "对方现在的状态", "你们之间的连接", "卡点", "走向 / 建议"]
+  },
+  "diamond": {
+    "name_zh": "五牌阵",
+    "count": 5,
+    "positions": ["核心", "根源", "阻力", "潜力", "建议"]
+  },
+  "moon": {
+    "name_zh": "月相牌阵",
+    "count": 4,
+    "positions": ["新月：意图", "上弦：行动", "满月：觉察", "下弦：释放"]
+  },
+  "horseshoe": {
+    "name_zh": "马蹄形",
+    "count": 7,
+    "positions": ["远期过去", "近期过去", "当前", "近期未来", "外部影响", "建议", "结果"]
+  },
+  "celtic": {
+    "name_zh": "凯尔特十字",
+    "count": 10,
+    "positions": ["核心", "交叉", "意识目标", "根基", "近期过去", "近期未来", "自我", "环境", "希望与恐惧", "结果"]
+  }
+}
